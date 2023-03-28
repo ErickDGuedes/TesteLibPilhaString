@@ -1,4 +1,4 @@
-package modelBib;
+package controllerBib;
 
 public class No {
 	public String dado;
